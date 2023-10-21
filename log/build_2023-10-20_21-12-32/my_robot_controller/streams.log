@@ -1,0 +1,29 @@
+[1.658s] Invoking command in '/home/ruasgar/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/ruasgar/ros2_ws/build/my_robot_controller/prefix_override:/home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ruasgar/ros2_ws/build/my_robot_controller/build
+[2.312s] running develop
+[2.693s] Removing /home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[2.735s] Invoked command in '/home/ruasgar/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/ruasgar/ros2_ws/build/my_robot_controller/prefix_override:/home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ruasgar/ros2_ws/build/my_robot_controller/build
+[2.741s] Invoking command in '/home/ruasgar/ros2_ws/my_robot_controller': PYTHONPATH=/home/ruasgar/ros2_ws/build/my_robot_controller/prefix_override:/home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/ruasgar/ros2_ws/build/my_robot_controller/build install --record /home/ruasgar/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[3.319s] running egg_info
+[3.321s] writing ../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[3.321s] writing dependency_links to ../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[3.322s] writing entry points to ../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[3.323s] writing requirements to ../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[3.323s] writing top-level names to ../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[3.330s] reading manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[3.333s] writing manifest file '../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[3.334s] running build
+[3.335s] running build_py
+[3.336s] running install
+[3.337s] running install_lib
+[3.339s] creating /home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[3.340s] copying /home/ruasgar/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[3.341s] copying /home/ruasgar/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[3.344s] byte-compiling /home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-310.pyc
+[3.347s] byte-compiling /home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[3.350s] running install_data
+[3.351s] running install_egg_info
+[3.357s] Copying ../build/my_robot_controller/my_robot_controller.egg-info to /home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[3.373s] running install_scripts
+[3.412s] Installing test_node script to /home/ruasgar/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[3.413s] writing list of installed files to '/home/ruasgar/ros2_ws/build/my_robot_controller/install.log'
+[3.454s] Invoked command in '/home/ruasgar/ros2_ws/my_robot_controller' returned '0': PYTHONPATH=/home/ruasgar/ros2_ws/build/my_robot_controller/prefix_override:/home/ruasgar/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_robot_controller build --build-base /home/ruasgar/ros2_ws/build/my_robot_controller/build install --record /home/ruasgar/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
